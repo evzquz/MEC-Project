@@ -1,4 +1,5 @@
-
+//This program will take an expression and give accurate results
+//Made by Erika Vazquez
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
